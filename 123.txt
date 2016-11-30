@@ -1,0 +1,11 @@
+git log 
+git push
+git pull
+git add
+git commit -m ""
+git checkout -b branch-name origin/branch-name #创建本地分支同远程分支同名
+git branch   #查看当前只用的分支
+git branch list   #查看本地分支列表
+git checkout branch-name  #切换到另一个分支
+git stash    #保存现场
+git stash apply #恢复现场
